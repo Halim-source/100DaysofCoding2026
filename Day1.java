@@ -8,10 +8,5 @@ public class Day1{
       gibran
       ceo sawit
      gibran*/
-
-    print
-
-  }
-
-  
-}
+ }
+ }
