@@ -9,6 +9,8 @@ public class Day1{
       ceo sawit
      gibran*/
 
+    print
+
   }
 
   
