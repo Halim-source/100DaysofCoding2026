@@ -3,7 +3,7 @@ public class Day5{
   public static void main(String[] args) {
 
 
-          //double di akhir tidak usah pake huruf f
+          //double (untuk pecahan/desimal)di akhir tidak usah pake huruf f
     
         double tinggisaya=153.3;
     System.out.println("tinggi saya :"+tinggisaya+"cm");
