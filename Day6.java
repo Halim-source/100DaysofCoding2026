@@ -2,8 +2,10 @@
 public class day6 {
 
     public static void main(String[] args) {
-        char inisial = 'H'; // simpan satu karakter/simbol
-        
+        char inisial = 'H'; // simpan satu karakter/simbol dgn tanda '-'
+
+
+      // boolean hanya ada dua out(true or false)
         boolean benar =(7>3);
         boolean salah =(1>3);
       System.out.println(inisial);
