@@ -3,7 +3,7 @@ public class Day8{
 public static void main(String[] args) {
 
 
-  //deklarasi hanya nama variabel
+  //deklarasi(tulis variabel dan type data lalu tutup)
   String jokowi;
   int umur;
 
