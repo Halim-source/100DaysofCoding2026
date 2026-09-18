@@ -24,3 +24,4 @@ public class Day17 {
         angka %= 4; // Artinya: angka = 6 % 4 (sisa bagi dari 6 dibagi 4 adalah 2)
         System.out.println("Setelah angka %= 4 : " + angka); // Output: 2
     }
+}
