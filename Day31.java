@@ -9,6 +9,6 @@ public class Main {
         
         System.out.println("(&&)angka a> angka b,angka a< angka b  : " +(a > b && a < b));
         System.out.println("(||)angka a> angka b,angka a< angka b  : " +(a > b || a < b));
-        System.out.println("!(false jadi true dan sebaliknya,angka a >100 ="+(a>100));
+        System.out.println("!(false jadi true dan sebaliknya,angka a >100 ="+!(a>100));
 }
 }
