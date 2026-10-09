@@ -17,7 +17,7 @@ if (a==1){
   System.out.println("ANDA MEMESAN NASI KUNING RP ="+b);
 }if (a==3){
   int b =10000;
-  System.out.println("AND MEMESAN GADO GADO RP ="+b);
+  System.out.println("ANDA MEMESAN GADO GADO RP ="+b);
 }else {
   System.out.println("ERROR MASUKKAN ANGKA SESUAI NOMOR MENU");
 }
