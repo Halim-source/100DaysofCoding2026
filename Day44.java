@@ -16,7 +16,7 @@ public class Day44{
   }else if(nilai>=50){
     System.out.print("PREDIKAT E");
   }else{
-    System.out.print("ANDA MENGULANG");
+    System.out.print("NILAI RENDAH");
   }
 
 
