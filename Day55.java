@@ -13,7 +13,7 @@ public static void main(String[] args) {
       
         if (i == 3) continue;
       
-        if (i == 7) break;
+        if (i >=bts) break;
         
         System.out.println(i);
     }
