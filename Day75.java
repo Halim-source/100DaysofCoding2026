@@ -19,7 +19,7 @@ System.out.println();
    //equalsIgnoreCase kalimat sama tanpa melihat huruf besar/kecil
    System.out.println("2.equalsIgnoreCase="+teks1.equalsIgnoreCase(teks2));
    //mencari kata
-   System.out.println("3.contains ="+(teks1.contains(f)||teks2.contains(f)));
+   System.out.println("3.contains ="+teks2.contains(f));
    //isEmpty apa kalimat kosong
    System.out.println("4.isEmpty ="+teks2.isEmpty());
   
