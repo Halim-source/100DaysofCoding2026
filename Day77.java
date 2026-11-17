@@ -16,7 +16,7 @@ public class Day77{
     System.out.print("masukkan kata yg mau dicari pada kedua teks:");
     String S = sc.nextLine();
     System.out.println("equals(kedua teks sama persis:"+teks1.equals(teks2));
-    System.out.println("equalsIgnoreCase(kedua teks sama :"+teks1.equals(teks2));
+    System.out.println("equalsIgnoreCase(kedua teks sama :"+teks1.equalsIgnoreCase(teks2));
     System.out.println("kata yang dicari:"+(teks1.contains(S)||teks2.contains(S)));
     System.out.println("apa teks satu atau dua kosong:"+(teks1.isEmpty()||teks2.isEmpty()));
     System.out.println("===============");
@@ -37,7 +37,7 @@ public class Day77{
         if(awal >= 0 && akhir <= take.length() && awal <= akhir) {
             System.out.println("substring = " + take.substring(awal, akhir));
         }else{
-            System.out.println("substring = indeks awal mulai dari 0 & indeks akhir tidak boleh lebih "+teks.length());
+            System.out.println("substring = indeks awal mulai dari 0 & indeks akhir tidak boleh lebih "+take.length());
         }
         System.out.println("replace   = " + take.replace(teksLama,teksbaru));
         System.out.println("trim      = " + take.trim());
