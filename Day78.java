@@ -19,7 +19,7 @@ public class Day78{
         System.out.print("LOGIN BERHASIL");
         
       }else{
-        System.out.printl("username atau password salah");
+        System.out.println("username atau password salah");
       }
     }while(!user.equals(username)||!pass.equals(password));
   }
