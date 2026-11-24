@@ -6,7 +6,7 @@ public class Day82 {
     System.out.print("masukkan jumlah indeks:");
     int indeks =sc.nextInt();
     int [] array = new int[indeks];
-    int maks =array[0];
+    int maks =Integer.MIN_VALUE;
     
     for(int i =0;i<array.length;i++){
       System.out.println("enter nilai indeks ke-"+i);
