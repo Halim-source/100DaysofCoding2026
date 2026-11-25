@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Day84 {
+public class Day85 {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
     System.out.print("masukkan jumlah indeks:");
